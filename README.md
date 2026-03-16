@@ -1,85 +1,69 @@
 <div align="center">
-  <img src="Gemini_Generated_Image_3rugfh3rugfh3rug.jpg" alt="Project Nebula Logo" width="1000">
-  
-  # 🌌 PROJECT NEBULA
-  **The Friendly Neighborhood Chaos Engine**
-  
-  [![Mastermind](https://img.shields.io/badge/Mastermind-FreshAssassin-ff0055?style=for-the-badge)](#)
-  [![Status](https://img.shields.io/badge/Status-100%25_Fun-00ffcc?style=for-the-badge)](#)
 
-  > *“Why hack the mainframe when you can just make it bounce and spawn Nicolas Cage?” — FreshAssassin*
+<img src="Gemini_Generated_Image_3rugfh3rugfh3rug.jpg" alt="Project Nebula Logo" width="100%">
+
+# 🌌 PROJECT NEBULA
+### *Dominion // Chaos // FreshAssassin Protocol*
+
+[![Mastermind](https://img.shields.io/badge/Mastermind-FreshAssassin-ff0055?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-Operational-00ffcc?style=for-the-badge)](#)
+[![Safety](https://img.shields.io/badge/Safety-F5_to_Escape-blue?style=for-the-badge)](#)
+
 </div>
 
 ---
 
-## 👋 Welcome to the Fun Zone
+## 🕵️‍♂️ WHAT IS PROJECT NEBULA?
+**Project Nebula** is the ultimate client-side browser sabotage tool. Engineered by **FreshAssassin**, this script injects a high-tech "Spy Console" into any website you visit. 
 
-Hey there, digital prankster! Welcome to **Project Nebula**. 
+Ever wanted to turn a boring school website into a chaotic Matrix terminal? Or replace every image on a news site with Nicolas Cage? Project Nebula gives you the keys to the kingdom. 
 
-Have you ever looked at a perfectly normal, boring website and thought, *"You know what this needs? A fake blue screen of death, upside-down images, and a button that actively runs away from my mouse"?* If so, you are in the right place. 
-
-Engineered by **FreshAssassin**, Project Nebula is a massive, single-file JavaScript tool that injects a sleek Hacker Command Panel into *any* website. It gives you 60 different ways to completely break reality on your screen. It’s perfect for pranking your friends, confusing your coworkers, or just having a good laugh at how websites are built.
-
-> ### 🛑 The "Please Don't Panic" Disclaimer
-> **Project Nebula is 100% harmless.** It is purely "client-side," which is a fancy nerd way of saying it only messes with the screen *you* are currently looking at. It doesn't steal passwords, it doesn't break computers, and it doesn't actually hack anything. 
-> 
-> **Did things get too crazy? Just hit the `F5` key (or refresh the page). Boom. Everything is back to normal. You’re welcome.**
+### 🛑 THE "DON'T PANIC" CLAUSE
+Project Nebula is **100% harmless**. It lives entirely in your browser's memory. It doesn't touch the website's servers, it doesn't steal data, and it doesn't break your computer. 
+**If things get too weird, just press `F5` or refresh the page.** Everything will vanish instantly.
 
 ---
 
-## 🚀 How to Install (The Secret Agent Method)
+## 🚀 THE STEALTH SETUP (BOOKMARKLET METHOD)
+*The smartest way to use Nebula. No console required—just one click.*
 
-We are going to use something called a **Bookmarklet**. This lets you disguise Project Nebula as a totally normal browser bookmark. When your target clicks it... *BAM. Control panel deployed.*
-
-**Follow these 4 foolproof steps:**
-
-1. **Steal the Code:** Open the `nebula.js` file in this repository and copy **EVERYTHING** inside it. (Yes, all of it).
-2. **Make a Dummy Bookmark:** * Make sure your Bookmarks Bar is visible (`Ctrl + Shift + B` on Windows, `Cmd + Shift + B` on Mac).
-   * Right-click the bar and click **Add Page** or **Add Bookmark**.
-3. **Master of Disguise:** Name the bookmark something boring so your friend actually clicks it. *Highly recommended names: "Math Homework", "Netflix Free", "Google Docs", or "System Settings".*
-4. **Inject the Payload:** * In the **URL** (or Web Address) box, type the word `javascript:` 
-   * **STOP.** Do not put a space after the colon!
-   * Immediately paste all the code you copied from `nebula.js` right next to the colon.
-   * Hit **Save**.
-
-🎉 **You're done!** Go to any website, click your new fake bookmark, and watch the magic happen.
+1. **COPY THE DATA:** Open the `nebula.js` file in this repo and copy all the code.
+2. **CREATE A GHOST BOOKMARK:** Right-click your Bookmarks Bar and select **"Add Page"**.
+3. **THE DISGUISE:** Name it something innocent like `Google Docs` or `Calculator`.
+4. **INJECT THE PAYLOAD:** - In the **URL** field, type `javascript:` (No spaces!)
+   - Immediately paste the code you copied right after the colon.
+5. **DEPLOY:** Go to any website and click your new bookmark. The Master Panel will spawn instantly.
 
 ---
 
-## 🧠 FreshAssassin’s Tips & Tricks
+## 🛠️ THE ARSENAL (60+ MODULES)
+Project Nebula comes packed with over 60 tactical payloads. Here are the fan favorites:
 
-Want to be a master prankster? Don't just click all 60 boxes at once (that will just freeze their browser, and a frozen browser isn't funny, it's just sad). 
-
-The secret to a great prank is *layering*. Here are some God-Tier Combos to try out:
-
-### 🏆 The Hall of Fame Combos
-
-| Combo Name | What to Check in the Panel | The Reaction |
-| :--- | :--- | :--- |
-| **The "Did You Spill Coffee on Your Mouse?"** | Ghost Cursor + Bouncy Clicks + Fleeing Buttons | Their mouse pointer vanishes. When they try to click blindly, the page bounces, and buttons actively run away from them. |
-| **The Hollywood Hacker** | Matrix Snowfall + Terminal Interface + Tab Renamer | The website turns black, green code rains down, the font goes retro, and the browser tab flashes "YOUR PC IS MINE". Classic. |
-| **The Identity Theft** | Custom Text Override + Custom Image Override | Type your name in the text box, paste a funny picture link, and watch their favorite news site suddenly write 100 articles entirely about *you*. |
-| **The National Treasure** | Nicolas Cage Mode + Comic Sans + Deep Fryer | Every image is Nic Cage. The font is Comic Sans. The colors are deep-fried and saturated. It is visual agony. |
-
-### 💡 Pro-Tips for Maximum Confusion
-* **Timing is Everything:** Set up the bookmark on your friend's laptop when they go to the bathroom. Click it, select your payloads, hit Execute, and walk away. Act natural when they return.
-* **The Slow Burn:** Don't do the flashy stuff first. Try just checking **Wobbly Page** or **Invisible Ink**. They will think their eyes are playing tricks on them for a solid 5 minutes before they say anything.
-* **The Nuclear Option:** Use **Fake Ransomware** or **Fake Blue Screen (BSOD)** if you want to see them briefly contemplate their life choices. Just remember to tell them to press F5 before they try to unplug the computer from the wall!
+* **🔥 Custom Injection:** Type any text or paste any image URL to overwrite the site globally.
+* **💀 Fake Ransomware:** Displays a high-detail "System Locked" screen. (Great for scaring friends).
+* **🌀 CSS Gravity:** Watch the entire website lose gravity and fall to the bottom of the screen.
+* **🎭 Cage Mode:** Replaces every single image on the page with Nicolas Cage.
+* **📉 Blue Screen (BSOD):** A pixel-perfect Windows crash screen.
 
 ---
 
-## 🔧 Troubleshooting (When Chaos Fails)
+## 💡 FRESHASSASSIN’S PRO-TIPS
+> *"A amateur hacker clicks everything. A Mastermind chooses his targets."*
 
-* **"I clicked the bookmark and nothing happened!"**
-  Double-check your bookmark URL. You probably forgot to type `javascript:` at the very beginning, or you accidentally put a space after the colon.
-* **"The Custom Text didn't change everything!"**
-  Nebula is smart. It only targets *visible* text so it doesn't accidentally break the website's background code. If it misses a few words, it's just keeping the site from crashing!
-* **"How do I undo this, my eyes hurt!"**
-  Press **`F5`**. Refresh the page. Breathe. It's over.
+* **The Ghost Prank:** Turn on `Ghost Cursor` and `Fleeing Buttons`. Your friend will think their mouse is possessed because they can't see the pointer and the buttons keep moving.
+* **The Slow Burn:** Don't use the Nuke first. Use `Wobbly Page` or `Comic Sans Override`. They’ll think their browser is just glitching until they realize the truth.
+* **The "News Hijacker":** Use the **Custom Text Input** to change a news headline to something about you, then take a screenshot. It looks 100% real.
+
+---
+
+## 🔧 TROUBLESHOOTING
+* **Image not showing in README?** Make sure the file `Gemini_Generated_Image_3rugfh3rugfh3rug.jpg` is uploaded to the SAME folder as this README on GitHub.
+* **Bookmark doesn't work?** Ensure you didn't miss the `javascript:` prefix at the start of the URL.
+* **Site is frozen?** You probably turned on too many animations at once. Just hit `F5` and start again!
 
 ---
 
 <div align="center">
-  <i>"With great power comes a great responsibility to mess with your friends."</i><br>
-  <b>— FreshAssassin</b>
+  <h3>Developed & Maintained by <a href="https://github.com/FreshAssassin">FreshAssassin</a></h3>
+  <i>"In the void of the DOM, only Nebula shines."</i>
 </div>
