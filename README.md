@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="nebula-logo.jpg" alt="Project Nebula Logo" width="600">
+  <img src="Gemini_Generated_Image_3rugfh3rugfh3rug.jpg" alt="Project Nebula Logo" width="1000">
   
   # 🌌 PROJECT NEBULA
   **The Friendly Neighborhood Chaos Engine**
