@@ -1,69 +1,62 @@
-<div align="center">
-
-<img src="Gemini_Generated_Image_3rugfh3rugfh3rug.jpg" alt="Project Nebula Logo" width="100%">
-
 # 🌌 PROJECT NEBULA
-### *Dominion // Chaos // FreshAssassin Protocol*
+### **Dominion // Chaos // FreshAssassin Protocol**
 
 [![Mastermind](https://img.shields.io/badge/Mastermind-FreshAssassin-ff0055?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Operational-00ffcc?style=for-the-badge)](#)
 [![Safety](https://img.shields.io/badge/Safety-F5_to_Escape-blue?style=for-the-badge)](#)
 
-</div>
-
 ---
 
 ## 🕵️‍♂️ WHAT IS PROJECT NEBULA?
-**Project Nebula** is the ultimate client-side browser sabotage tool. Engineered by **FreshAssassin**, this script injects a high-tech "Spy Console" into any website you visit. 
+**Project Nebula** is a massive, single-file JavaScript engine designed for total client-side browser manipulation. Engineered by **FreshAssassin**, this tool injects a sleek "Mastermind Console" into any website, giving you the power to rewrite reality in real-time.
 
-Ever wanted to turn a boring school website into a chaotic Matrix terminal? Or replace every image on a news site with Nicolas Cage? Project Nebula gives you the keys to the kingdom. 
+Whether you're looking to prank a friend or perform a "digital takeover" of a site, Nebula provides 60+ tactical modules to get the job done.
 
-### 🛑 THE "DON'T PANIC" CLAUSE
-Project Nebula is **100% harmless**. It lives entirely in your browser's memory. It doesn't touch the website's servers, it doesn't steal data, and it doesn't break your computer. 
-**If things get too weird, just press `F5` or refresh the page.** Everything will vanish instantly.
+> ### 🛑 THE "FRESH" GUARANTEE
+> This script is **100% harmless**. It operates only in your browser's temporary memory. It does not touch servers, steal data, or break hardware. 
+> **To abort all operations: Simply press `F5` or refresh the page.**
 
 ---
 
-## 🚀 THE STEALTH SETUP (BOOKMARKLET METHOD)
-*The smartest way to use Nebula. No console required—just one click.*
+## 🚀 STEALTH DEPLOYMENT (THE BOOKMARKLET)
+*The most powerful way to use Nebula. No console required—just one click from your bookmarks bar.*
 
-1. **COPY THE DATA:** Open the `nebula.js` file in this repo and copy all the code.
-2. **CREATE A GHOST BOOKMARK:** Right-click your Bookmarks Bar and select **"Add Page"**.
-3. **THE DISGUISE:** Name it something innocent like `Google Docs` or `Calculator`.
-4. **INJECT THE PAYLOAD:** - In the **URL** field, type `javascript:` (No spaces!)
-   - Immediately paste the code you copied right after the colon.
-5. **DEPLOY:** Go to any website and click your new bookmark. The Master Panel will spawn instantly.
+1. **GET THE CODE:** Open `nebula.js` in this repo and copy the entire script.
+2. **CREATE THE GHOST:** Right-click your browser's **Bookmarks Bar** and select **"Add Page"**.
+3. **THE DISGUISE:** Name the bookmark something boring like `Calculator`, `School Portal`, or `Google Docs`.
+4. **INJECT THE DATA:** - In the **URL** field, type `javascript:` (exactly like that, no spaces).
+   - Paste the code you copied immediately after the colon.
+5. **EXECUTE:** Visit any site, click the bookmark, and watch the Master Panel spawn.
 
 ---
 
 ## 🛠️ THE ARSENAL (60+ MODULES)
-Project Nebula comes packed with over 60 tactical payloads. Here are the fan favorites:
+The v7.0 update includes our most stable and chaotic payloads yet:
 
-* **🔥 Custom Injection:** Type any text or paste any image URL to overwrite the site globally.
-* **💀 Fake Ransomware:** Displays a high-detail "System Locked" screen. (Great for scaring friends).
-* **🌀 CSS Gravity:** Watch the entire website lose gravity and fall to the bottom of the screen.
-* **🎭 Cage Mode:** Replaces every single image on the page with Nicolas Cage.
-* **📉 Blue Screen (BSOD):** A pixel-perfect Windows crash screen.
+* **🔥 Custom Injection:** Overwrite any site with your own text and images.
+* **💀 Fake Ransomware:** A terrifyingly realistic "System Locked" screen.
+* **🌀 CSS Gravity:** Disconnect website elements and let them fall into the void.
+* **🎭 Cage Mode:** The classic. Replaces every image with Nicolas Cage.
+* **📉 Blue Screen (BSOD):** A pixel-perfect Windows crash simulation.
+* **📡 Data Interceptor:** A scrolling terminal that "captures" site data live.
 
 ---
 
-## 💡 FRESHASSASSIN’S PRO-TIPS
-> *"A amateur hacker clicks everything. A Mastermind chooses his targets."*
-
-* **The Ghost Prank:** Turn on `Ghost Cursor` and `Fleeing Buttons`. Your friend will think their mouse is possessed because they can't see the pointer and the buttons keep moving.
-* **The Slow Burn:** Don't use the Nuke first. Use `Wobbly Page` or `Comic Sans Override`. They’ll think their browser is just glitching until they realize the truth.
-* **The "News Hijacker":** Use the **Custom Text Input** to change a news headline to something about you, then take a screenshot. It looks 100% real.
+## 💡 MASTERMIND TIPS & TRICKS
+* **The "Gaslight" Prank:** Use the **Custom Text Input** to change a friend's social media profile name or a news headline to something ridiculous. It stays changed until they refresh!
+* **The Vanishing Act:** Combine `Ghost Cursor` and `Fleeing Buttons` to make a website completely impossible to navigate.
+* **The Matrix:** Activate `Matrix Snowfall` and `Terminal Interface` for the ultimate movie-hacker aesthetic.
 
 ---
 
 ## 🔧 TROUBLESHOOTING
-* **Image not showing in README?** Make sure the file `Gemini_Generated_Image_3rugfh3rugfh3rug.jpg` is uploaded to the SAME folder as this README on GitHub.
-* **Bookmark doesn't work?** Ensure you didn't miss the `javascript:` prefix at the start of the URL.
-* **Site is frozen?** You probably turned on too many animations at once. Just hit `F5` and start again!
+* **Nothing happens?** Ensure you typed `javascript:` (with the colon) before the code in your bookmark URL.
+* **Site Lagging?** You’ve deployed too many animations. Refresh the page (`F5`) and select fewer modules.
+* **Text didn't change?** Nebula targets visible text to avoid crashing the site. Some deeply embedded code may be ignored for safety.
 
 ---
 
 <div align="center">
-  <h3>Developed & Maintained by <a href="https://github.com/FreshAssassin">FreshAssassin</a></h3>
+  <h3>Developed by <a href="https://github.com/FreshAssassin">FreshAssassin</a></h3>
   <i>"In the void of the DOM, only Nebula shines."</i>
 </div>
