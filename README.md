@@ -30,16 +30,12 @@ Whether you're looking to prank a friend or perform a "digital takeover" of a si
 
 ---
 
-## 🛠️ THE ARSENAL (60+ MODULES)
-The v7.0 update includes our most stable and chaotic payloads yet:
-
-* **🔥 Custom Injection:** Overwrite any site with your own text and images.
-* **💀 Fake Ransomware:** A terrifyingly realistic "System Locked" screen.
-* **🌀 CSS Gravity:** Disconnect website elements and let them fall into the void.
-* **🎭 Cage Mode:** The classic. Replaces every image with Nicolas Cage.
-* **📉 Blue Screen (BSOD):** A pixel-perfect Windows crash simulation.
-* **📡 Data Interceptor:** A scrolling terminal that "captures" site data live.
-
+## 🔥 WHAT'S NEW IN v8.0 (The Viral Update)
+* **The Arsenal Expanded:** We jumped from 60 to **160 hardcoded, unique powers**. 
+* **The "Fire" Panel:** Completely redesigned UI with a glowing crimson breathing animation, hover physics, and a built-in search bar.
+* **The Kusarigama Engine:** The katana cursor is now a high-res SVG. Click to physically "rip" website elements in half and watch them float away.
+* **Madron & Struycken Modes:** Custom audio-visual jumpscares and takeovers built directly into the core.
+* **100 New Abilities:** Featuring *Text Dodger*, *DVD Bouncer (Full Page)*, *Toxic Cursors*, *Fake Paywalls*, and *Melting Sites*.
 ---
 
 ## 💡 MASTERMIND TIPS & TRICKS
